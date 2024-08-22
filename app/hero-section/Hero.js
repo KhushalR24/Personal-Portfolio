@@ -18,7 +18,7 @@ const Hero = () => {
 
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
-          <Link href="#" target="_blank" aria-label="HELLO GUYS">
+          <Link href="https://www.instagram.com/_.im_khushal.2407/" target="_blank" aria-label="HELLO GUYS">
             <motion.button
               className="hidden rounded-md border-2 border-[#F6C90E] py-2 px-4 text-[14px] font-semibold text-[#F6C90E] sm:block  md:text-[16px] lg:block"
               variants={bodyAnimation}
@@ -29,7 +29,7 @@ const Hero = () => {
         </div>
 
         <div className="flex gap-10 text-[#F6C90E] sm:gap-12 md:gap-14 lg:gap-14">
-          <Link href="#" target="_blank" aria-label="View GitHub Profile">
+          <Link href="https://github.com/KhushalR24" target="_blank" aria-label="View GitHub Profile">
             <motion.p
               className="text-[16px] font-bold text-[#F6C90E] md:text-[16px]"
               variants={bodyAnimation}

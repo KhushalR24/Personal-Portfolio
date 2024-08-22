@@ -46,7 +46,7 @@ const Contact = () => {
           </div>
 
           <div className="flex gap-10 text-[16px] font-bold text-[#F6C90E]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
-            <Link href="#" target="_blank" aria-label="View GitHub Profile">
+            <Link href="https://github.com/KhushalR24" target="_blank" aria-label="View GitHub Profile">
               <AnimatedTitle
                 text={"GH"}
                 className={
